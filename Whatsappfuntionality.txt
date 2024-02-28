@@ -7,3 +7,7 @@
 4.Profile 
 
 5.last seen hide
+
+6.video call
+
+7.audio call 
